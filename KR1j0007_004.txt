@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 釋名
-#+DATE: 2015-09-23 09:41:09
+#+DATE: 2015-09-10 23:06:50.179447
+#+PROPERTY: ID KR1j0007
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 4
+#+PROPERTY: FILE SB01n0030-004釋名-卷第四.
 <pb:KR1j0007_SBCK_004-1a>¶
 釋名卷第四¶
 　　　　　　　　　　劉熈字成國撰¶
@@ -246,4 +250,3 @@
 砥石也　粉分也研米使分散也　胡粉胡餬也脂¶
 和以塗靣也　黛代也滅眉毛去之以此&KR0030;代其處¶
 <pb:KR1j0007_SBCK_004-13a>¶
-

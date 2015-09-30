@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 釋名
-#+DATE: 2015-09-23 09:41:09
+#+DATE: 2015-09-10 23:06:50.098692
+#+PROPERTY: ID KR1j0007
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 2
+#+PROPERTY: FILE SB01n0030-002釋名-卷第二.
 <pb:KR1j0007_SBCK_002-1a>¶
 釋名卷第二¶
 　　　　　　　　　　劉熈字成國撰¶
@@ -131,4 +135,3 @@
 <pb:KR1j0007_SBCK_002-8a>¶
 ¶
 釋名卷第二¶
-

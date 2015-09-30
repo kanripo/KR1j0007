@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 釋名
-#+DATE: 2015-09-23 09:41:09
+#+DATE: 2015-09-10 23:06:50.342408
+#+PROPERTY: ID KR1j0007
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 8
+#+PROPERTY: FILE SB01n0030-008釋名-卷第八.
 <pb:KR1j0007_SBCK_008-1a>¶
 釋名卷第八¶
 　　　　　　　　　　劉熈字成國撰¶
@@ -127,4 +131,3 @@
 ¶
 釋名卷第八終¶
 <pb:KR1j0007_SBCK_008-7a>¶
-

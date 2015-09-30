@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 釋名
-#+DATE: 2015-09-23 09:41:09
+#+DATE: 2015-09-10 23:06:50.139283
+#+PROPERTY: ID KR1j0007
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 3
+#+PROPERTY: FILE SB01n0030-003釋名-卷第三.
 <pb:KR1j0007_SBCK_003-1a>¶
 釋名卷第三¶
 　　　　　　　　　　劉熈字成國撰¶
@@ -166,4 +170,3 @@
 <pb:KR1j0007_SBCK_003-8b>¶
 ¶
 釋名卷第三¶
-
