@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 釋名
-#+DATE: 2016-04-12 14:30:31.877455
+#+DATE: 2016-04-12 14:30:32.115251
 #+PROPERTY: ID KR1j0007
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR1j0007_WYG_000-1a>¶
 　　欽定四庫全書　　　　經部十¶

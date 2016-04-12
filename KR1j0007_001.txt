@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 釋名
-#+DATE: 2016-04-12 14:30:31.880916
+#+DATE: 2016-04-12 14:30:32.128238
 #+PROPERTY: ID KR1j0007
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 1
 <pb:KR1j0007_WYG_001-1a>¶
 　　欽定四庫全書¶
@@ -169,7 +169,7 @@
 ¶
 　　曰洲洲聚也人及鳥物所聚息之處也　小洲曰渚渚¶
 <pb:KR1j0007_WYG_001-9a>¶
-遮也體高能&KR0210;水使從旁迴也　小渚曰沚沚止也小¶
+遮也體高能遮水使從旁迴也　小渚曰沚沚止也小¶
 可以止息其上也　小沚曰泜泜遲也能遏水使流遲¶
 也　人所為之曰潏潏術也堰使水鬱術也魚梁水碓¶
 之謂也　海中可居者曰島島到也人所奔到也亦言¶

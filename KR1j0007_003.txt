@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 釋名
-#+DATE: 2016-04-12 14:30:31.927479
+#+DATE: 2016-04-12 14:30:32.169083
 #+PROPERTY: ID KR1j0007
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 3
 <pb:KR1j0007_WYG_003-1a>¶
 　　欽定四庫全書¶
@@ -73,7 +73,7 @@
 氣變化不與覺時同也　寐謐也静謐無聲也　寢權¶
 假卧之名也寢侵也侵損事功也　眠泯也無知泯泯¶
 也　覺告也　寤忤也能與物相接忤也　欠嶔也開¶
-張其口聲脣嶔嶔也　𡁲踕也聲作踕而出¶
+張其口聲脣嶔嶔也　嚏踕也聲作踕而出¶
 也　笑鈔也頰皮上鈔者也¶
 ¶
 <pb:KR1j0007_WYG_003-4b>¶
